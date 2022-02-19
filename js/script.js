@@ -6,4 +6,4 @@ balertname.onclick=function(){
 // balertnum.onclick=function(){
 //     alert(2);
 //     Origanalstatement.innerHTML="alert('Muhammad Hamza');"
-// }
+// }   121
