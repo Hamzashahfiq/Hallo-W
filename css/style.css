@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #F1FAEE;
+}
+.navbar{
+    background-color: #1D3557;
+}
+.maincontent{
+    min-height: 450px;
+}
+.mainbutton{
+    text-align: center;
+}
+.maindiv1, 
+.maindiv2{
+    text-align: center;
+}
+.footercontent{
+    height: 40px;
+    line-height: 40px;
+    background-color:#1D3557;
+    color: white;
+    text-align: center;
+}
